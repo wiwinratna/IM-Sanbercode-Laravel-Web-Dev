@@ -1,0 +1,3 @@
+Saya mengikuti Bootcamp Laravel ini karena saat ini saya juga mengambil mata kuliah Framework di kampus.
+
+Saya ingin memperdalam pemahaman saya di luar materi kuliah, sekaligus belajar praktik langsung membuat aplikasi web menggunakan framework Laravel. Dengan mengikuti bootcamp ini, saya berharap bisa lebih siap menghadapi tugas-tugas perkuliahan dan membangun pondasi skill web development yang lebih kuat untuk karir saya ke depan.
